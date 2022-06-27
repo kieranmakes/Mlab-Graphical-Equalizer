@@ -3,3 +3,6 @@ Multiband eq made with matlab. Eq achieved through using IIR shelving and peakin
 
 [Implementation Report](https://www.dropbox.com/s/14q8jzf0di7rgy5/Report.pdf?dl=1)
 
+
+![EQ](./imgs/eq.png)
+
